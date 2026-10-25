@@ -7,11 +7,9 @@ Python 3.10 ou superior
 pip
 Instalação
 1. Clone o repositório
-git clone URL_DO_SEU_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/carlossNascimento/bootcamp
+cd bootcamp
 
-
-Substitua URL_DO_SEU_REPOSITORIO e NOME_DO_REPOSITORIO pelos dados do seu projeto.
 
 2. Crie um ambiente virtual
 
