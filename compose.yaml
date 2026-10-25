@@ -1,0 +1,7 @@
+services:
+  taskanalyzer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: taskanalyzer
+    container_name: taskanalyzer
