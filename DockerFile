@@ -4,4 +4,7 @@ WORKDIR /app
 
 COPY src-taskAnalyzer.py .
 
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
 CMD ["python", "src-taskAnalyzer.py", "--help"]
